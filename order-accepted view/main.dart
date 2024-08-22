@@ -98,7 +98,7 @@ Row(
 
               //end button
 
-              //sign up
+         
               Column(
                 children: [
               
@@ -126,8 +126,7 @@ Row(
                 ],
               ),
 
-              //signup
-              //             )
+                     )
             ]),
 
  ],
@@ -136,58 +135,3 @@ Row(
  );
   }
 }
-
-
-
-
-//       body:
-//      ListView(
-//        children: [
-//          Center(child: Column(
-//            children: [
-//              Image.asset('assets/images/Group 6872.png',),
-
-//                  SizedBox(height: 23,),
-
-
-//               Text("   Your Order has been ",style: TextStyle(fontSize: 28,fontWeight:FontWeight.w600,),),
-//               Text(" accepted",style: TextStyle(fontSize: 28,fontWeight:FontWeight.w600,),),
-              
-//               SizedBox(height: 18,),
-
-//              Text("   Your items has been placcd and is on  ",style: TextStyle(fontSize: 
-// 16,fontWeight:FontWeight.w400,color: Color(0xff7C7C7C)),),
-//               Text(" it’s way to being processed",style: TextStyle(fontSize: 
-// 16,fontWeight:FontWeight.w400,color: Color(0xff7C7C7C)),),
-//            ],
-           
-
-
-
-
-
-
-//          ),
-         
-
-         
-         
-//            //container button
-
-           
-           
-//               //end button
-
-
-      
-         
-//          ),
-
-
-//        ],
-//      )
-   
-      
-//     );
-//   }
-// }
